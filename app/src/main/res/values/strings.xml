@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Football Quiz</string>
+    <string name="btnStart">Start</string>
+    <string name="etName">Edit Text</string>
+    <string name="result">Result</string>
+    <string name="congratulations">Hey, Congratulations!</string>
+    <string name="username">$username</string>
+    <string name="score">Your score is $correctAnswers out of $totalQuestions!</string>
+    <string name="finish">FINISH</string>
+</resources>
